@@ -1,0 +1,23 @@
+
+.contact_list {
+    width: 600px;
+    margin-right: 50px;
+}
+
+.contact_information {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 10px;
+
+
+}
+.contact_items {
+    width: 33%;
+    text-align: center;
+}
+.contact_item {
+    font-size: 1.4rem;
+    font-weight: bold;
+}
